@@ -2,6 +2,7 @@
 Terms of Agreement
 
 ● mc.b-zone.ro este un afiliat al comunitatii B-Zone.
+
 ● Liderii serverelor de Minecraft ale comunitatii de peste 7 ani.
 
 Donatii:
@@ -32,9 +33,12 @@ si vom rezolva problema atata timp cat detineti o dovada a achizitiei.
 
 
   Contact: edward.nanescu (Skype)
-           minecraft@b-zone.ro (E-Mail)
-           mc.b-zone.ro/forum (Forum)
-           https://discord.gg/YbNhSAN (Discord)
+          
+        ●  minecraft@b-zone.ro (E-Mail)
+          
+        ●  mc.b-zone.ro/forum (Forum)
+          
+        ●  https://discord.gg/YbNhSAN (Discord)
            
 
 
