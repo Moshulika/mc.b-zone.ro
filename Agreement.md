@@ -1,11 +1,9 @@
 
-Terms of Agreement
+                                               Terms of Agreement
 
 ● mc.b-zone.ro este un afiliat al comunitatii B-Zone.
 
 ● Liderii serverelor de Minecraft ale comunitatii de peste 7 ani.
-
-Donatii:
 
 ● Cei ce au donat in trecut sunt eliglibili returnarii rankului numai in prezenta unei dovezi a achizitiei (ex. Factura, Screenshot
 la o conversatie cu Ownerii trecuti sau orice fel de dovada valida)
@@ -31,8 +29,16 @@ si vom rezolva problema atata timp cat detineti o dovada a achizitiei.
 
 ● In orice moment puteti fi sanctionati cu stergerea beneficiilor daca incalcati regulamentul prezentat pe forum.
 
+● Daca ati donat pentru un grad (ex. Sponsor, Overlord) iar dupa Wipe va doriti desigur gradul inapoi prezentan dovada achizitiei NU veti primii itemele consumabile (ex. Protectii, Spawnere).
 
-  Contact: edward.nanescu (Skype)
+● Gradul de sponsor nu mai poate fi achizitionat, va fi acordat numai celor care au cumparat gradul dinainte sa fie sters.
+
+● NU suntem responsabil pentru plangeri aferente daca nu ati citit acest articol inainte sa cumparati.
+
+
+  Contact: 
+     
+        ●  edward.nanescu (Skype)
           
         ●  minecraft@b-zone.ro (E-Mail)
           
